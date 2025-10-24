@@ -1,6 +1,6 @@
 # 🗞️ The Daily Ledger – NYT-Style News Website
 
-A modern, minimal, editorial-style news website built with **Next.js 14**, **TypeScript**, and **Tailwind CSS**, designed to replicate the visual style and layout of *The New York Times* homepage.
+A modern, minimal, editorial-style news website built with **Next.js 16**, **TypeScript**, and **Tailwind CSS**, designed to replicate the visual style and layout of *The New York Times* homepage.
 
 ---
 
@@ -8,7 +8,7 @@ A modern, minimal, editorial-style news website built with **Next.js 14**, **Typ
 
 - 📰 **NYT-Style Layout** – Clean, editorial design with strong typography and grid structure  
 - 📱 **Responsive Design** – Fully responsive across all device sizes  
-- ⚙️ **Modern Tech Stack** – Built with Next.js 14 (App Router), TypeScript, and Tailwind CSS  
+- ⚙️ **Modern Tech Stack** – Built with Next.js 16 (App Router), TypeScript, and Tailwind CSS  
 - 🧩 **Component Architecture** – Modular, reusable components for easy maintenance  
 - ✍️ **Typography** – Georgia serif for headlines, Inter sans-serif for body text  
 - 🎨 **Interactive Elements** – Smooth transitions and subtle hover effects  
@@ -17,7 +17,7 @@ A modern, minimal, editorial-style news website built with **Next.js 14**, **Typ
 
 ## 🧱 Tech Stack
 
-- **Next.js 14** (App Router)
+- **Next.js 16** (App Router)
 - **TypeScript**
 - **Tailwind CSS v4**
 - **Google Fonts:** Georgia & Inter
